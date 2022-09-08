@@ -8,5 +8,5 @@
 ### Skills 🛠
 
 * **Languages:** R, Python, SQL, C++, MATLAB
-* **Big Data:** Spark, Hadoop, AWS (S3, Redshift), PrestoDB
+* **Big Data:** Spark, Hadoop, PrestoDB, Azure, AWS
 * **DevOps:** Git, Docker, CI (GitHub Actions, Travis, Jenkins)
